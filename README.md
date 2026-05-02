@@ -1,6 +1,6 @@
 # Cold Ego
 
-A personalized gift e-commerce mobile application with a separate frontend and backend architecture.
+A personalized gift e commerce mobile application with a separate frontend and backend architecture.
 
 ---
 
